@@ -1,7 +1,5 @@
 import java.util.ArrayList;
 
-// import java.util.ArrayList;
-
 public class Driver {
     public static ArrayList<Character> ans;
     
